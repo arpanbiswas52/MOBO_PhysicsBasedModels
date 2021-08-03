@@ -1,5 +1,5 @@
 # MOBO_PhysicsBasedModels
-The repository contains MOBO framework, integrated to solve for complex physics based numerical models.
+The repository contains MOBO framework, integrated to unconstrained or contrained multi-objective optimization of different physics based numerical models.
 The MOBO framework in build under GpyTorch/BoTorch package.
 Start with unconstrained version. Then check the constrained version.
 
