@@ -10,7 +10,7 @@ Then check "Classical MOBO tutorial.ipynb". Here we extend from BO to MOBO, and 
 
 Then check "PhysicsDriven MOBO (PZO) tutorial.ipynb". Here we extend to MOBO implementation to physics based complex model.
 
-Check the latest versions of the above mentioned titles.
+Check the latest versions of the above mentioned titles. The other files are older versions.
 
 In future, the framework will be extended to solve constrained problems
 
