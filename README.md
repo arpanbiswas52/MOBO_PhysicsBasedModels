@@ -15,6 +15,6 @@ Check the latest versions of the above mentioned titles. The other files are old
 In future, the framework will be extended to solve constrained problems
 
 **Additional Colab links**
-FerroSim Model: https://colab.research.google.com/github/ziatdinovmax/FerroSim/blob/master/Examples/FerroSim_GP_v2b.ipynb
+FerroSim Model: https://github.com/ramav87/FerroSim
 
 
