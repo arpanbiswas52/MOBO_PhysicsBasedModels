@@ -14,6 +14,12 @@ Then check the below two notebooks where we implemented MOBO with complex physic
 
 "**PhysicsDriven MOBO (FerroSim) tutorial.ipynb**" - Here we extend to **MOBO implementation to a kinetic lattice simulation model of a ferroelectric with a double well potential and a vector order parameter $(P_x,P_y)$ at each site**. More on FerroSim model can be found here: FerroSim Model: https://github.com/ramav87/FerroSim
 
+**Example (PZO): Exploration over parameter space containing FE and AFE hysteresis loops:**
+
+**Building Pareto front to maximize energy storage and loss for with Multi-objective Bayesian optimization**
+
+![image](https://user-images.githubusercontent.com/19354142/217886178-a0f51fd1-ab19-45ef-af64-d197a4ce24f2.png)
+
 Check the latest versions of the above mentioned titles. The other files are older versions.
 
 In future, more examples will be added.
